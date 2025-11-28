@@ -34,6 +34,9 @@ This app displays:
   - Invalid city
   - API issues
   - No internet connection
+ 
+    <img width="371" height="469" alt="image" src="https://github.com/user-attachments/assets/ba202ba2-069a-430d-aa4c-834e8c697587" />
+
 
 ---
 
@@ -41,7 +44,6 @@ This app displays:
 
 Make sure you have **Python 3.x** installed, then install the required package:
 
-<img width="371" height="469" alt="image" src="https://github.com/user-attachments/assets/58849943-1ac7-470e-849e-07a6178baeb5" />
 
 pip install requests
 Modules used:
